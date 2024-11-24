@@ -287,12 +287,10 @@ img {
     border: 1px solid #8E8F99;
     border-radius: 4px;
     margin-bottom: 8px;
-    
-}
-
-.benefits-wrapper.strategy {
 box-shadow: 0 4px 4px 0 rgba(0, 0, 0, 0.25);
 }
+
+
 
 .benefits-subtitle {
     margin-bottom: 8px;
