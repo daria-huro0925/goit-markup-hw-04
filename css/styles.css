@@ -464,22 +464,18 @@ transform: translateY(0);
 
 /* footer */
 
-.basement {
+.footer {
     background-color: #2e2f42;
     padding: 100px 0;
-    display: flex;
-        align-items: baseline;
 }
 
-.container-div {
+.footer-container {
     display: flex;
     align-items: baseline;
-    
 }
 
 .logo-part {
    margin-right: 120px;
-    
 }
 
 .footer-logo {
