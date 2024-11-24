@@ -521,12 +521,9 @@ transform: translateY(0);
     padding: 0 auto;
 }
 
-.item-footer {
+.footer-item {
     width: 40px;
     height: 40px;
-
-    transition-property: background-color;
-    transition: 250ms cubic-bezier(0.4, 0, 0.2, 1);
 }
 
 .footer-wrapper {
@@ -535,7 +532,7 @@ transform: translateY(0);
     height: 40px;
 }
 
-.link-footer {
+.footer-link {
     display: flex;
     justify-content: center;
     align-items: center;
