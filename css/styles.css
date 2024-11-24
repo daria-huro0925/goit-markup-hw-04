@@ -502,7 +502,7 @@ transform: translateY(0);
 
 .socials-footer {}
 
-.socials-footer-text {
+.socials-text {
     font-weight: 500;
     font-size: 16px;
     line-height: 1.5;
@@ -512,7 +512,7 @@ transform: translateY(0);
         
 }
 
-.socials-footer-list {
+.footer-list {
     display: flex;
     gap: 16px;
     justify-content: center;
@@ -521,7 +521,7 @@ transform: translateY(0);
     padding: 0 auto;
 }
 
-.socials-item-footer {
+.item-footer {
     width: 40px;
     height: 40px;
 
@@ -535,7 +535,7 @@ transform: translateY(0);
     height: 40px;
 }
 
-.socials-link-footer {
+.link-footer {
     display: flex;
     justify-content: center;
     align-items: center;
@@ -548,11 +548,11 @@ transform: translateY(0);
     transition-property: background-color; 
 }
 
-.socials-link-footer:hover,
-.socials-link-footer:focus {
+.link-footer:hover,
+.link-footer:focus {
     background-color: #31D0AA;
 }
 
-.socials-icons-footer {
+.icons-footer {
 fill: #f4f4fd;
 }
