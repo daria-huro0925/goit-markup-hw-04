@@ -474,21 +474,20 @@ transform: translateY(0);
 /* footer */
 
 .footer {
-    display: flex;
-    
-        align-items: baseline;
-            background-color: #2e2f42;
+    background-color: #2e2f42;
     padding: 100px 0;
     
+}
+
+.container-div {
+    display: flex;
+    align-items: baseline;
     
 }
 
-.footer-container {
+.logo-part {
+   margin-right: 120px;
     
-}
-
-.footer-container.container {
-    margin-right: 120px
 }
 
 .footer-text {
@@ -503,6 +502,12 @@ transform: translateY(0);
 .footer-logo {
     display: inline-block;
     margin-bottom: 16px;
+}
+
+.footer-wrapper {
+    border: 1px solid #000;
+    width: 40px;
+    height: 40px;
 }
 
 .part-logo-footer {
