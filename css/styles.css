@@ -544,9 +544,9 @@ transform: translateY(0);
     transition-property: background-color;
 }
 
-.link-footer:hover,
-.link-footer:focus {
-    background-color: #31D0AA;
+.footer-link:hover,
+.footer-link:focus {
+    background-color: #31d0aa;
 }
 
 .icons-footer {
